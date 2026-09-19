@@ -1,0 +1,1 @@
+{"version":3,"file":"alexa-http2push.d.ts","sourceRoot":"","sources":["../../src/alexa-remote/alexa-http2push.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,YAAY,EAAE,MAAM,aAAa,CAAC;AAE3C,qBAAa,cAAe,SAAQ,YAAY;IAE5C,YAAY,OAAO,KAAA,EAAE,mBAAmB,KAAA,EAgBvC;IAED,WAAW,QAEV;IAED,OAAO,SAmPN;IAED,UAAU,SAuBT;CACJ;eAEc,cAAc"}
